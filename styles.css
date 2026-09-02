@@ -1,17 +1,17 @@
 body{
-    background-color: darkkhaki;
+    background-color: rgb(124, 218, 148);
     margin:0px;
 }
 
 #wrapper{
     width: 960px;
-    background-color: darkseagreen;
+    background-color: rgb(226, 121, 184);
     margin-right: auto;
     margin-left: auto;
 }
 
 header{
-    background-color: darksalmon;
+    background-color: rgb(45, 193, 87);
     height: 150px;
     position: relative;
 }
