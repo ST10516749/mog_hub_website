@@ -2,3 +2,10 @@ body{
     background-color: darkkhaki;
     margin:0px;
 }
+
+#wrapper{
+    width: 960px;
+    background-color: darkseagreen;
+    margin-right: auto;
+    margin-left: auto;
+}
