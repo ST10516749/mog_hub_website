@@ -9,3 +9,9 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+
+header{
+    background-color: darksalmon;
+    height: 150px;
+    position: relative;
+}
