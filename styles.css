@@ -35,3 +35,21 @@ header img{
     padding-left: 10px;
     padding-right: 10px;
 }
+
+a.link{
+    color: brown;
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(49, 136, 202);
+}
+
+a:hover{
+    color: rgb(200, 68, 158);
+}
+
+.currentPage{
+    color: chocolate;
+    border-bottom: solid thin #cd3c3c00;
+}
