@@ -82,6 +82,13 @@ a:hover{
 @media only screen and (max-width: 960px){
     header {
         background-color: red;
+        height:375px;
 
     }
+
+    #wrapper {
+    width: 360px;
+  }
+
 }
+
